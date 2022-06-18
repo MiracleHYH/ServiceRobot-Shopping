@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="listen" type="recognize.py" name="listen_en" output="screen">
+    </node>
+
+</launch>
